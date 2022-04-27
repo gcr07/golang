@@ -41,5 +41,8 @@ go build just compiles the executable file and moves it to the destination. go i
 
 Fuente:https://stackoverflow.com/questions/24069664/what-does-go-install-do
 
+## Difference between `go get` and `git clone`?
+
+El comando ***git clone**** clonará un repositorio en un directorio recién creado, mientras ***go get*** e instala los paquetes nombrados por las rutas de importación, junto con sus dependencias.
 
 
