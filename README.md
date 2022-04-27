@@ -1,8 +1,12 @@
 # GO
 
-##Checar si si se instalo
+## Checar si si se instalo
 
 >go version
+
+## Compilacion Basica
+
+> go buiild test.go
 
 ## Para compilar un archivo y hacelo mas ligero
 
